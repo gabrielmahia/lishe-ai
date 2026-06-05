@@ -8,4 +8,4 @@ Healthy eating guidance, food security resources, and nutrition for all ages —
 - 🌾 Food security resources (WFP, UNICEF Kenya)
 ## Data: WFP Kenya | UNICEF | Kenya Ministry of Health nutrition guidelines
 ---
-*gabrielmahia.ai | CC BY-NC-ND 4.0*
+*gabrielmahia.github.io | MIT License*
