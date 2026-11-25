@@ -63,4 +63,4 @@ with tab3:
         st.markdown(f'<div class="l-card">{result.replace(chr(10),"<br>")}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("🥗 Lishe AI v1.0 | WFP Kenya: wfp.org/kenya | UNICEF: unicef.org/kenya | CC BY-NC-ND 4.0")
+st.caption("🥗 Lishe AI v1.0 | WFP Kenya: wfp.org/kenya | UNICEF: unicef.org/kenya | MIT")
